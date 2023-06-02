@@ -12,7 +12,7 @@
     "modular",
     "productivity"
   ],
-  "repository": "https://github.com/jithumon/tgbot",
+  "repository": "https://github.com/Recordu45/tgbot",
   "env": {
     "ENV": {
       "description": "Setting this to ANYTHING will enable env variables. But, you need to understand the code to know what to set here!",
@@ -96,7 +96,7 @@
   "formation": {
     "web": {
       "quantity": 1,
-      "size": "free"
+      "size": "Eco"
     }
   }
 }
